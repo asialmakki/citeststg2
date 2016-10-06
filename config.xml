@@ -97,6 +97,7 @@
   <platform name="chrome">
     <icon src="/platforms/chrome/icon.png" width="128" height="128"/>
   </platform>
+  <preference name="ios-XCBuildConfiguration-TARGETED_DEVICE_FAMILY" value="1,2"/>
   <preference name="WindowsStorePublisherName" value="My Name"/>
-  <preference name="WindowsStoreIdentityName" value="616c20b4-dab1-2aa5-813a-083c18e89684"/>
+  <preference name="WindowsStoreIdentityName" value="bf109241-6108-435b-6e2b-5645afdd29c9"/>
 </widget>
