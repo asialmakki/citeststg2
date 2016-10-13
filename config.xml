@@ -99,5 +99,5 @@
   </platform>
   <preference name="ios-XCBuildConfiguration-TARGETED_DEVICE_FAMILY" value="1,2"/>
   <preference name="WindowsStorePublisherName" value="My Name"/>
-  <preference name="WindowsStoreIdentityName" value="c85ca155-d82c-d1ca-aa61-f475a92bd1d8"/>
+  <preference name="WindowsStoreIdentityName" value="f4a12872-2876-221e-3495-5cb8756e9389"/>
 </widget>
